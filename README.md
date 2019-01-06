@@ -1,1 +1,1 @@
-# Repositório voltado para aplicações de uso geral.
+# Repositório voltado para aplicações de usos gerais.
